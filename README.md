@@ -1,6 +1,6 @@
-# Java MatchIt Memory Game
+# MatchIt Memory Game
 
-##A Java program with a Swing GUI 
+##Java program with Swing GUI 
 
 The game consists of 8 pairs of cards, arranged in a 4x4 grid, that start out face down and shuffled randomly. On the face of the paired cards there are various pictures and the goal of the game is to match two cards with the same picture until all 16 cards are matched.
  
